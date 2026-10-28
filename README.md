@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Maneesha-018/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Maneesha-018/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Maneesha-018/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maneesha-018/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Maneesha-018/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Maneesha-018/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Maneesha-018/leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Maneesha-018/leetcode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Maneesha-018/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
