@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Maneesha-018/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Maneesha-018/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maneesha-018/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Maneesha-018/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Maneesha-018/leetcode/tree/master/0202-happy-number) |
 | [1512-number-of-good-pairs](https://github.com/Maneesha-018/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -41,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Maneesha-018/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Maneesha-018/leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Maneesha-018/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
